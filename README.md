@@ -3,9 +3,9 @@
 <hr></hr>
 
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bea-brito&show_icons=true&hide=issues&theme=dark&hide_border=true">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bea-brito&show_icons=true&hide=issues&hide_border=true">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bea-brito&hide_border=true&theme=dark"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bea-brito&hide_border=true"
 </p>
 
 
