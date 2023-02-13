@@ -1,11 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=30&duration=2000&pause=1000&color=5433FF&center=true&vCenter=true&width=1000&lines=My+name+is+Beatriz;But+everyone+call's+me+Bea;I'm+25+years+old;Welcome+to+my+profile!+)](https://git.io/typing-svg)
-
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?size=30&duration=2000&pause=1000&color=5433FF&center=true&vCenter=true&width=1000&lines=My+name+is+Beatriz;But+everyone+call's+me+Bea;I'm+26+years+old;Welcome+to+my+profile!+)](https://git.io/typing-svg) -->
+<h1 align="center">Beatriz Brito ☕ 🧑🏾‍💻</h1>
+<ul>
+    <li>📔 I am always looking to learn and challenge myself</li>
+    <li>💻 Currently studying the second semester of Systems Analysis and Development</li>
+    <li>👏 Venturing into the front end universe, with html, css and javascript </li>
+    <li>👀 Starting to study java as a back-end language</li>
+</ul>
 <hr></hr>
-
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bea-brito&show_icons=true&hide=issues&hide_border=true">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bea-brito&show_icons=true&hide=issues&hide_border=true&theme=darcula">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bea-brito&hide_border=true"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bea-brito&hide_border=true&theme=darcula"
 </p>
 
 
