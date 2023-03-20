@@ -7,11 +7,11 @@
     <li>👀 Starting to study java as a back-end language</li>
 </ul>
 <hr></hr>
-<p align="center">
+<!-- <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bea-brito&show_icons=true&hide=issues&hide_border=true&theme=darcula">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bea-brito&hide_border=true&theme=darcula"
 </p>
-
+ -->
 
 
