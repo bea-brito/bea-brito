@@ -4,7 +4,6 @@
     <li>📔 I am always looking to learn and challenge myself</li>
     <li>💻 Currently studying the second semester of Systems Analysis and Development</li>
     <li>👏 Venturing into the front end universe, with html, css and javascript </li>
-    <li>👀 Starting to study java as a back-end language</li>
 </ul>
 <hr></hr>
  <p align="center">
