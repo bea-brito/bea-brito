@@ -1,5 +1,4 @@
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?size=30&duration=2000&pause=1000&color=5433FF&center=true&vCenter=true&width=1000&lines=My+name+is+Beatriz;But+everyone+call's+me+Bea;I'm+26+years+old;Welcome+to+my+profile!+)](https://git.io/typing-svg) -->
-<h1 align="center">Beatriz Brito ☕ 🧑🏾‍💻</h1>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?size=30&duration=2000&pause=1000&color=5433FF&center=true&vCenter=true&width=1000&lines=My+name+is+Beatriz;But+everyone+call's+me+Bea;I'm+26+years+old;Welcome+to+my+profile!+)](https://git.io/typing-svg) 
 <ul>
     <li>📔 I am always looking to learn and challenge myself</li>
     <li>💻 Currently studying the second semester of Systems Analysis and Development</li>
