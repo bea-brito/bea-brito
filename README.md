@@ -1,6 +1,6 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?size=30&duration=2000&pause=1000&color=5433FF&center=true&vCenter=true&width=1000&lines=My+name+is+Beatriz;But+everyone+call's+me+Bea;I'm+27+years+old;Welcome+to+my+profile!+)](https://git.io/typing-svg) 
 <div align="center">
- <p>🚀 Always looking for something new </p>
+ <p>🚀 Always looking for something new! </p>
     <p>💻 Currently studying the fourth semester of Systems Analysis and Development</p>
     <p>👏 Venturing into the Front End universe, with HTML, CSS, Javascript and React!  </p>
 </div>
