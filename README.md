@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <p>
-  📫 How to reach me: <a href='mailto:beatrizmotabrito@hotmail.com'>beatrizmotabrito@hotmail.com</a>
+  📫 How to reach me: <a href='mailto:beatrizmotabrito@hotmail.com'>biamotabrito@gmail.com</a>
 </p>
 
 
